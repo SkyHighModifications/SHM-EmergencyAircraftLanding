@@ -1,6 +1,6 @@
 # SHM-EmergencyAircraftLanding
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/YourGitHubUsername/SHM-EmergencyAircraftLanding/releases/tag/1.0.0)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/SkyHighModifications/SHM-EmergencyAircraftLanding/releases/tag/1.0.0)
 
 Introducing the newest FiveM script by **SkyHigh Modifictions**: *EmergencyAircraftLanding*.
 
