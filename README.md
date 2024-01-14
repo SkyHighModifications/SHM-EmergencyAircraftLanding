@@ -5,9 +5,9 @@
 
 [![Beta Version](https://img.shields.io/badge/BetaVersion-1.0.0-blue.svg)](https://github.com/SkyHighModifications/SHM-EmergencyAircraftLanding/releases/tag/1.0.0)
 
-Introducing the newest FiveM script by **SkyHigh Modifictions**: *EmergencyAircraftLanding*.
+Introducing the newest FiveM script by **SkyHigh Modifications**: *EmergencyAircraftLanding*.
 
-This script revolutionises your roleplay within aviation, allowing you to finally do realistic emergency landings!
+This scriot transforms your aviation roleplay with realism, enabling thrilling and authentic emergency landings like never before!
 
 # Configuration
 
