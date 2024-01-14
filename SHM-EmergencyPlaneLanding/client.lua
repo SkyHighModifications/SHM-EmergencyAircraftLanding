@@ -10,8 +10,8 @@ Citizen.CreateThread(function()
         StartResource(resource)
         print(resource .. " has started and is fully working!")
     else
-        StopResource(resource)
-        print(resource .. " is incorrect and has stopped working due to an incorrect name (SHM-EmergencyAircraftLanding)")
+        StopResource(GetCurrentResourceName())
+        print(GetCurrentResourceName() .. " is incorrect and has stopped working due to an incorrect name (SHM-EmergencyAircraftLanding)")
     end
 end)
 
