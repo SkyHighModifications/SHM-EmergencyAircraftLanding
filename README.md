@@ -1,4 +1,4 @@
-# 𝓢𝓗𝓜-𝓔𝓶𝓮𝓻𝓰𝓮𝓷𝓬𝔂𝓐𝓲𝓻𝓬𝓻𝓪𝓯𝓽𝓛𝓪𝓷𝓭𝓲𝓷𝓰
+# (っ◔◡◔)っ 𝕊ℍ𝕄-𝔼𝕞𝕖𝕣𝕘𝕖𝕟𝕔𝕪𝔸𝕚𝕣𝕔𝕣𝕒𝕗𝕥𝕃𝕒𝕟𝕕𝕚𝕟𝕘
 
 [![PublicVersion](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/SkyHighModifications/SHM-EmergencyAircraftLanding/releases/tag/1.0.0)
 
@@ -48,7 +48,7 @@ This script was developed by [Papi Smurf @ SkyHigh Modifications](https://discor
 
 ------------------------------------------------------
 
-# ₛₖyₕᵢgₕ ₘₒdᵢfᵢcₐₜᵢₒₙₛ Cₒₙₜₐcₜ ᵤₛ
+# (っ◔◡◔)っ ♥ SkyHigh Modifications | Contact Us ♥
 
 Want to get in contact with us? Here are a couple places you can do so:
 
