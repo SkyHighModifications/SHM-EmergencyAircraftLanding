@@ -21,7 +21,7 @@ Runways = {
         UnknownLocation = "Unknown Location",
 
         LSIA = {
-            name = "Runway 1 at Heathrow Airport",
+            name = "Runway " .. math.random(1, 3) .. " at Heathrow Airport"
             coords = vector3(0.0, 0.0, 0.0), -- Replace with actual LSIA coordinates
         }, 
 
